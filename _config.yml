@@ -42,7 +42,7 @@ plugins:
 
 author:
   name   : "Ngoc B. Nguyen"
-  avatar : "/assets/images/profile_photo.JPG"
+  avatar : "/assets/images/profile.jpg"
   bio    : "PhD candidate <br /> University of California, Berkeley"
   links:
     - label: "Email"
