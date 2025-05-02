@@ -1,7 +1,8 @@
-/* your overrides must come *before* the theme import */
+---
+---
 @import "minimal-mistakes";
 
-/* now force a larger avatar */
+/* ↑ now your custom overrides go ↓ */
 .author-profile__avatar {
   width: 200px !important;
   height: 200px !important;
