@@ -1,5 +1,5 @@
 ---
-title: "Ecosystem Modeling Researcher"
+title: "Ecosystem Modeling"
 author_profile: true
 layout: single
 classes: wide
