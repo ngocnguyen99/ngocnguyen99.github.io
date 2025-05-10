@@ -19,4 +19,4 @@ My research focuses on modeling and predicting global ecosystem CO2 fluxes under
 </div> 
 
 ### News
-* **April 30, 2025:** My first-author paper in my life was accepted in pricinple by Nature Geoscience! 
+* **April 30, 2025:** My first PhD chapter was accepted by Nature Geoscience! 
