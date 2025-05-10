@@ -14,7 +14,7 @@ My name is Ngoc (/knock/); I am a 4th-year PhD Candidate at the University of Ca
 My work has crucial applications in evaluating and informing nature-based climate solutions that utilize natural ecosystems as long-term carbon pools.
 
 
-<div style="background-color: #e6ab02; color: #1b9e77; padding: 10px;">
+<div style="background-color: #ffffff; color: #1b9e77; padding: 10px;">
   I synthesize large ecological datasets and apply novel machine learning approaches ranging from tree-based models to large language models(LLMs). My research uses in situ eddy-covariance observations, Dynamic Global Vegetation Models (DGVMs), and remote sensing data to model and predict global carbon fluxes and pools under high climate variability and elevated CO₂.
 </div>
 
