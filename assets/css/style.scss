@@ -1,0 +1,32 @@
+---
+--- 
+/* everything below this line is plain SCSS */
+
+/* 1. Increase author-profile avatar size */
+.author-profile__avatar img {
+  width: 200px !important;
+  height: 200px !important;
+}
+
+/* 2. Increase page-cover height */
+.page-header__cover-image {
+  height: 400px;
+  object-fit: cover;
+}
+
+/* 3. Top-right “fieldwork” mini-gallery */
+.top-right-images {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  gap: 0.5rem;
+  z-index: 999;
+}
+.top-right-images img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
