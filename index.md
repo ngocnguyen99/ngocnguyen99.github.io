@@ -9,13 +9,14 @@ header:
 excerpt: ''
 ---
 
-<div >
-    My name is Ngoc (/knock/); I am a 4th-year PhD Candidate at the University of California, Berkeley, supervised by Prof. Trevor Keenan. I follow the footprint of CO₂ fluxes in our ecosystems to understand the extent to which global vegetation and soil microbes capture and release CO₂ under current climate variability. My work has crucial applications in evaluating and informing nature-based climate solutions that utilize natural ecosystems as long-term carbon pools.
-</div> 
+<p>
+  My name is Ngoc (/knock/); I am a 4th-year PhD Candidate at the University of California, Berkeley, supervised by Prof. Trevor Keenan. I follow the footprint of CO₂ fluxes in our ecosystems to understand the extent to which global vegetation and soil microbes capture and release CO₂ under current climate variability. My work has crucial applications in evaluating and informing nature-based climate solutions that utilize natural ecosystems as long-term carbon pools.
+</p>
 
-</div> 
-    I synthesize large ecological datasets and apply novel machine learning approaches ranging from tree-based models to large language models (LLMs). My research uses in situ eddy-covariance observations, Dynamic Global Vegetation Models (DGVMs), and remote sensing data to model and predict global carbon fluxes and pools under high climate variability and elevated CO₂.
-</div> 
+<p>
+  I synthesize large ecological datasets and apply novel machine learning approaches ranging from tree-based models to large language models (LLMs). My research uses in situ eddy-covariance observations, Dynamic Global Vegetation Models (DGVMs), and remote sensing data to model and predict global carbon fluxes and pools under high climate variability and elevated CO₂.
+</p>
+
 
 ### News
 * **April 30, 2025:** My first PhD chapter was accepted by <span style="color:#e7298a; font-style: italic;"><strong><em>Nature Geoscience</em></strong></span>!
