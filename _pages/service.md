@@ -20,5 +20,4 @@ Conference Organizer
 
 Interpreter
 
-
 After-school Program Organizer, STRIVE Prep Middle School
