@@ -3,26 +3,21 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-// — now your overrides —
+/* 1) Author avatar wrapper + image */
+.author-profile__avatar,
 .author-profile__avatar img {
-  width: 2000px !important;
-  height: 2000px !important;
+  width: 300px !important;
+  height: 300px !important;
+  max-width: none !important;
+  object-fit: cover !important;
 }
-.page-header__cover-image {
-  height: 1000px;
-  object-fit: cover;
-}
-.top-right-images {
-  position: absolute;
-  bottom: 2rem;
-  left: 1rem;
-  display: flex;
-  gap: 0.5rem;
-  z-index: 999;
-}
-.top-right-images img {
-  width: 300px;
-  height: 300px;
-  object-fit: cover;
-  border-radius: 4px;
+
+/* 2) Page-cover wrapper + all possible image tags */
+.page-header__cover-wrap,
+.page-header__cover-wrap img,
+.page-header__cover-wrap picture img {
+  width: 100% !important;
+  height: 800px !important;    /* pick your desired height */
+  max-width: none !important;
+  object-fit: cover !important;
 }
