@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-<p style="margin-bottom:1.5em; color::#007fff">
+<p style="margin-bottom:1.5em; color::blue">
   <strong><em>2025</em></strong>
 </p>
 
@@ -23,7 +23,7 @@ H Zhang, H Wang, IJ Wright, I Prentice, S Harrison, N Smith, A Westerband, L Row
 KH Cohrs, [co-authors including <strong>N Nguyen</strong>] (2025). A Protocol to Evaluate Carbon Dioxide Flux Partitioning Methods for Eddy Covariance Data. <strong>EGU Annual Meeting</strong>.
 </p>
   
-<p style="margin-bottom:1.5em; color::#007fff">
+<p style="margin-bottom:1.5em; color::blue">
   <strong><em>2024</em></strong>
 </p>
 
@@ -44,7 +44,7 @@ HQ Wang, YH Kang, <strong>N Nguyen</strong>, TF Keenan (2024). Assessing Land Ca
 S Paulus, R Orth, S Lee, JA Nelson, A Hildebrandt, <strong>N Nguyen</strong>, M Reichstein, M Migliavacca (2024). Mapping soil moisture uptake by dry soils across Eddy covariance measurement sites. <strong>EGU Annual Meeting 2024.</strong>
 </p>
 
-<p style="margin-bottom:1.5em; color::#007fff">
+<p style="margin-bottom:1.5em; color::blue">
   <strong><em>2023</em></strong>
 </p>
 
@@ -60,7 +60,7 @@ X Luo, R Zhao, H Chu, S Fatichi, X Lu, <strong>N Nguyen</strong>, W Sun, TF Keen
 <strong>N Nguyen</strong>, X Yu, TF Keenan, J Liu (2023). Examining Ecosystem Respiration Sensitivity to Temperature and Water Availability during Droughts. <strong>AGU Annual Meeting 2023.</strong>
 </p>
 
-<p style="margin-bottom:1.5em; color::#007fff">
+<p style="margin-bottom:1.5em; color::blue">
   <strong><em>2022</em></strong>
 </p>
 
@@ -72,7 +72,7 @@ X Luo, R Zhao, H Chu, S Fatichi, X Lu, <strong>N Nguyen</strong>, W Sun, TF Keen
 <strong>N Nguyen</strong>, TF Keenan, M Migliavacca, JK Green, M Bassiouni (2022). Incorporating Water Availability into Ecosystem Flux Partitioning”. <strong>ICOS Conference 2022. Oral Presentation</strong>
 </p>
 
-<p style="margin-bottom:1.5em; color::#007fff">
+<p style="margin-bottom:1.5em; color::blue">
   <strong><em>2021</em></strong>
 </p>
 
