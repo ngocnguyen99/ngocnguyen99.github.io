@@ -1,5 +1,5 @@
 main:
-  - title: "News"
+  - title: "Home"
     url: /
   - title: "Projects"
     url: /project/
@@ -9,5 +9,5 @@ main:
     url: /service/
   - title: "CV"
     url: /cv/
-  - title: "Life is Fun!"
+  - title: "My Life"
     url: /fun/
