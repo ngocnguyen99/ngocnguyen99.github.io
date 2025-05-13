@@ -19,9 +19,8 @@ excerpt: ''
 
 
 ### News
-<p style="margin-bottom:1.5em;">
+<p style="margin-bottom:1.5em; color::#007fff">
   <strong><em>2025</em></strong>
- </span>!
 </p>
 <p style="margin-bottom:1.5em;">
   <strong><em>April 30, 2025:</em></strong> My first PhD chapter was accepted by  
