@@ -1,20 +1,17 @@
 ---
---- 
-/* everything below this line is plain SCSS */
+---
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
 
-/* 1. Increase author-profile avatar size */
+// — now your overrides —
 .author-profile__avatar img {
-  width: 2000px !important;
-  height: 2000px !important;
+  width: 200px !important;
+  height: 200px !important;
 }
-
-/* 2. Increase page-cover height */
 .page-header__cover-image {
-  height: 1000px;
+  height: 400px;
   object-fit: cover;
 }
-
-/* 3. Top-right “fieldwork” mini-gallery */
 .top-right-images {
   position: absolute;
   top: 1rem;
