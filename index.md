@@ -20,7 +20,11 @@ excerpt: ''
 
 ### News
 <p style="margin-bottom:1.5em;">
-  **April 30, 2025:** My first PhD chapter was accepted by  
+  <strong><em>2025</em></strong>
+ </span>!
+</p>
+<p style="margin-bottom:1.5em;">
+  <strong><em>April 30, 2025:</em></strong> My first PhD chapter was accepted by  
   <span style="color:#007fff; font-style: italic;">
     <strong><em>Nature Geoscience</em></strong>
   </span>!
@@ -31,8 +35,9 @@ excerpt: ''
   </li>
 </ul>
 
+
 <p style="margin-bottom:1.5em;">
-  **April 25, 2025:** Our paper, led by Luo X. and the team from the National University of Singapore (NUS), on estimating global vegetation carbon use efficiency (CUE) via eddy-covariance observations was accepted by  
+  <strong><em>April 25, 2025:</em></strong> Our paper, led by Luo X. and the team from the National University of Singapore (NUS), on estimating global vegetation carbon use efficiency (CUE) via eddy-covariance observations was accepted by  
   <span style="color:#007fff; font-style: italic;">
     <strong><em>Nature Ecology &amp; Evolution</em></strong>
   </span>!
@@ -43,8 +48,9 @@ excerpt: ''
   </li>
 </ul>
 
+
 <p style="margin-bottom:1.5em;">
-  **March 25, 2025:** Our paper, led by H Zhang and the team at Tsinghua University, on estimating global stem respiration under thermal acclimation was accepted by  
+  <strong><em>March 25, 2025:</em></strong> Our paper, led by H Zhang and the team at Tsinghua University, on estimating global stem respiration under thermal acclimation was accepted by  
   <span style="color:#007fff; font-style: italic;">
     <strong><em>Science</em></strong>
   </span>!
@@ -55,5 +61,17 @@ excerpt: ''
   </li>
 </ul>
 
+
+<p style="margin-bottom:1.5em;">
+  <strong><em>March 25, 2025:</em></strong> Our paper, led by H Zhang and the team at Tsinghua University, on estimating global stem respiration under thermal acclimation was accepted by  
+  <span style="color:#007fff; font-style: italic;">
+    <strong><em>Science</em></strong>
+  </span>!
+</p>
+<ul style="font-size:85%; margin:4px 0;">
+  <li style="color:black; font-style: italic;">
+    H Zhang, H Wang, IJ Wright, I Prentice, S Harrison, N Smith, A Westerband, L Rowland, L Plavcová, H Morris, P Reich, S Jansen, TF Keenan, <strong>N Nguyen</strong> (2025). Thermal acclimation of stem respiration implies a weaker carbon-climate feedback. <strong>Science (in press)</strong>
+  </li>
+</ul>
 
   
