@@ -19,6 +19,7 @@ excerpt: ''
 
 
 ### News
+<p>
 * **April 30, 2025:** My first PhD chapter was accepted by <span style="color:#007fff; font-style: italic;"><strong><em>Nature Geoscience</em></strong></span>!
   <ul style="font-size:85%; margin-top:4px;">
     <li><span style="color:black; font-style: italic;">
@@ -26,12 +27,14 @@ excerpt: ''
     </span></li>
   </ul>
 <p>
+<p>
 * **April 25, 2025:** Our paper, led by Luo X. and the team from the National University of Singapore (NUS), on estimating global vegetation carbon use efficiency (CUE) via eddy-covariance observations was accepted by <span style="color:#007fff; font-style: italic;"><strong><em>Nature Ecology & Evolution</em></strong></span>!
   <ul style="font-size:85%; margin-top:4px;">
     <li><span style="color:black; font-style: italic;">
       X Luo, R Zhao, H Chu, A Collalti, S Fatichi, TF Keenan, X Lu, <strong>N Nguyen</strong>, I Prentice, W Sun, L Yu (2025). Global variation in vegetation carbon use efficiency inferred from eddy covariance observations. <strong>Nature Ecology & Evolution (in press)</strong>
     </span></li>
   </ul>
+<p>
 <p>
 * **March 25, 2025:** Our paper, led by H Zhang and the team at Tsinghua University, on estimating global stem respiration under thermal acclimation was accepted by <span style="color:#007fff; font-style: italic;"><strong><em>Science</em></strong></span>!
   <ul style="font-size:85%; margin-top:4px;">
