@@ -1,8 +1,0 @@
----
----
-// 1) Set your desired author avatar size:
-$author-profile-avatar-size: 300px !default;
-
-// 2) Then import the skin and theme:
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
