@@ -1,11 +1,9 @@
 ---
-# assets/css/style.scss
 ---
+@import "minimal-mistakes/style";
 
-@import "minimal-mistakes/style";  // bring in all the theme’s defaults
-
-// now bump up the avatar size:
 .author-profile__photo {
-  width: 500px !important;
-  height: 500px !important;
+  width: 2000px !important;
+  height: 2000px !important;
+  border-radius: 50%;
 }
