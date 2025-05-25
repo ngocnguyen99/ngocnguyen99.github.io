@@ -10,7 +10,7 @@ excerpt: ''
 ---
 
 <p>
-  My name is Ngoc (/knock/); I am a 4th-year PhD Candidate at the University of California, Berkeley, supervised by Prof. Trevor Keenan. I follow the footprint of CO₂ fluxes in our ecosystems to understand the extent to which global vegetation and soil microbes capture and release CO₂ under current climate variability. My work has crucial applications in evaluating and informing nature-based climate solutions that utilize natural ecosystems as long-term carbon pools.
+  Hi! My name is Ngoc Nguyen (/knock/); I am a 4th-year PhD Candidate at the University of California, Berkeley, supervised by Prof. Trevor Keenan. I follow the footprint of CO₂ fluxes in our ecosystems to understand the extent to which global vegetation and soil microbes capture and release CO₂ under current climate variability. My work has crucial applications in evaluating and informing nature-based climate solutions that utilize natural ecosystems as long-term carbon pools.
 </p>
 
 <p>
