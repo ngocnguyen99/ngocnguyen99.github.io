@@ -1,0 +1,15 @@
+---
+--- 
+
+/* import the skin you chose in _config.yml */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+/* import the rest of the theme */
+@import "minimal-mistakes";
+
+/* your overrides go _after_ the imports */
+.author-profile__photo {
+  width: 2000px !important;
+  height: 2000px !important;
+  border-radius: 50%;
+}
