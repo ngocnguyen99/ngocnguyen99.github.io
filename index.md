@@ -57,7 +57,7 @@ excerpt: ''
 </p>
 <ul style="font-size:85%; margin:4px 0;">
   <li style="color:black; font-style: italic;">
-    H Zhang et al. [13 co-authors including <strong>N Nguyen</strong>] (2025). Thermal acclimation of stem respiration implies a weaker carbon-climate feedback. <strong>Science (in press)</strong>
+    H Zhang et al. [13 co-authors including <strong>N Nguyen</strong>] (2025). Thermal acclimation of stem respiration implies a weaker carbon-climate feedback. <strong>Science</strong>. https://www.science.org/doi/10.1126/science.adr9978
   </li>
 </ul>
 
