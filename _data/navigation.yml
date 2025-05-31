@@ -9,5 +9,5 @@ main:
     url: /service/
   - title: "CV"
     url: "/CV.pdf"
-  - title: Stories"
+  - title: Stories
     url: /fun/
