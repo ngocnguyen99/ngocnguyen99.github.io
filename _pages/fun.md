@@ -7,8 +7,7 @@ title: "Stories"
   <strong><em>FLUXNET Secondment Program 2023: A visit to Italy at the European Commission, Joint Research Centre </em></strong>
 </p>
 
-Summer 2025, I reflected on my Milano experience…in late summer 2023….
-</p>
+Summer 2025, I reflected on my Milano experience…in late summer 2023…
 
 <p>
 6 a.m. I breathed in the humid air of a subtropical summer, something deeply familiar that I had only experienced in my home country, Vietnam. After spending four years in Colorado and two in the Bay Area, I finally found myself in another place both hot and humid, but not Vietnam. Instead, I was on a different continent, a continent that remains a mystery to me with full of excitement. 
