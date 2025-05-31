@@ -16,7 +16,7 @@ X Luo, R Zhao, H Chu, A Collalti, S Fatichi, TF Keenan, X Lu, <strong>N Nguyen</
 </p>
 
 <p style="margin-bottom:1.5em; color::#007fff">
-H Zhang, H Wang, IJ Wright, I Prentice, S Harrison, N Smith, A Westerband, L Rowland, L Plavcová, H Morris, P Reich, S Jansen, TF Keenan, <strong>N Nguyen</strong> (2025). Thermal acclimation of stem respiration implies a weaker carbon-climate feedback. <strong>Science (in press)</strong>
+H Zhang, H Wang, IJ Wright, I Prentice, S Harrison, N Smith, A Westerband, L Rowland, L Plavcová, H Morris, P Reich, S Jansen, TF Keenan, <strong>N Nguyen</strong> (2025). Thermal acclimation of stem respiration implies a weaker carbon-climate feedback. <strong>Science </strong>. https://www.science.org/doi/10.1126/science.adr9978
 </p>
 
 <p style="margin-bottom:1.5em; color::#007fff">
