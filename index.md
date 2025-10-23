@@ -22,16 +22,16 @@ excerpt: ''
 <p style="margin-bottom:1.5em; color::#007fff">
   <strong><em>2025</em></strong>
 </p>
-######AlphaEarth
+
 
 <p style="margin-bottom:1.5em;">
-  <strong><em>October 15, 2025:</em></strong> Our proposal received grants from  
+  <strong><em>October 15, 2025:</em></strong> We received grants from  
   <span style="color:#007fff; font-style: italic;">
-    <strong><em>Google AlphaEarth</em></strong> to apply satellite embedded datasets in climate research
+    <strong><em>Google AlphaEarth</em></strong> (among 200 applicants!) to apply satellite embedded datasets in climate research
   </span>!
 </p>
 
-###Nature Geoscience
+
 
 <p style="margin-bottom:1.5em;">
   <strong><em>July 31, 2025:</em></strong> My first PhD chapter is officially out in  
