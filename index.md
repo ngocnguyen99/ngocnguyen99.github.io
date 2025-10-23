@@ -22,16 +22,26 @@ excerpt: ''
 <p style="margin-bottom:1.5em; color::#007fff">
   <strong><em>2025</em></strong>
 </p>
+######AlphaEarth
 
 <p style="margin-bottom:1.5em;">
-  <strong><em>April 30, 2025:</em></strong> My first PhD chapter was accepted by  
+  <strong><em>October 15, 2025:</em></strong> Our proposal received grants from  
+  <span style="color:#007fff; font-style: italic;">
+    <strong><em>Google AlphaEarth</em></strong> to apply satellite embedded datasets in climate research
+  </span>!
+</p>
+
+###Nature Geoscience
+
+<p style="margin-bottom:1.5em;">
+  <strong><em>July 31, 2025:</em></strong> My first PhD chapter is officially out in  
   <span style="color:#007fff; font-style: italic;">
     <strong><em>Nature Geoscience</em></strong>
   </span>!
 </p>
 <ul style="font-size:85%; margin:4px 0 1.5em;">
   <li style="color:black; font-style: italic;">
-    <strong>N Nguyen</strong> et al. (2025). Widespread underestimation of rain-induced carbon losses across global drylands. <strong>Nature Geoscience (in press)</strong>
+    <strong>Nguyen N.B. </strong>, Migliavacca, M., Bassiouni, M. et al. Widespread underestimation of rain-induced soil carbon emissions from global drylands. Nat. Geosci. 18, 869–876 (2025). https://doi.org/10.1038/s41561-025-01754-9
   </li>
 </ul>
 
@@ -44,7 +54,7 @@ excerpt: ''
 </p>
 <ul style="font-size:85%; margin:4px 0 1.5em;">
   <li style="color:black; font-style: italic;">
-    X Luo et al. [10 co-authors including <strong>N Nguyen</strong>] (2025). Global variation in vegetation carbon use efficiency inferred from eddy covariance observations. <strong>Nature Ecology &amp; Evolution (in press)</strong>
+    X Luo et al. [10 co-authors including <strong>N Nguyen</strong>] (2025). Global variation in vegetation carbon use efficiency inferred from eddy covariance observations. Nat Ecol Evol 9, 1414–1425 (2025). https://doi.org/10.1038/s41559-025-02753-0
   </li>
 </ul>
 
