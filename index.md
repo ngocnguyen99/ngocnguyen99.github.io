@@ -27,8 +27,7 @@ excerpt: ''
 <p style="margin-bottom:1.5em;">
   <strong><em>October 15, 2025:</em></strong> We received grants from  
   <span style="color:#007fff; font-style: italic;">
-    <strong><em>Google AlphaEarth</em></strong> (among 200 applicants!) to apply satellite embedded datasets in climate research
-  </span>!
+    <strong><em>Google AlphaEarth</em></strong> </span> (among 200 applicants!) to apply satellite embedded datasets in climate research!
 </p>
 
 
